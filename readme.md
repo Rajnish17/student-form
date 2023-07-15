@@ -1,6 +1,7 @@
 # To Run This  Project 
 
 # First Step is Clone This Repo
+git clone https://github.com/Rajnish17/student-form.git
 # Second Step is Go to the Directory by using
   cd folder name
 
